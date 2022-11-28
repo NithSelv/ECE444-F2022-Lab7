@@ -1,0 +1,67 @@
+Output of Test1: 
+Test Input: Donald Trump declares war against aliens
+Expected Response: 1
+Actual Response: 1
+
+Test Input: New York best selling author on vacation
+Expected Response: 0
+Actual Response: 0
+
+Test Input: Students are spending more time indoors
+Expected Response: 0
+Actual Response: 0
+
+Test Input: The weather tomorrow is cloudy with a chance of meatballs
+Expected Response: 1
+Actual Response: 1
+
+Output of Test2: 
+Test Input: End of the world is tomorrow!
+Expected Response: 1
+Actual Response: 1
+
+
+Output of Test3: 
+Test Input: Doctor Oz discovers cure to cancer
+Expected Response: 1
+Actual Response: 1
+
+
+Output of Test4: 
+Test Input: Expecting clear skies with an average temperature at 21 degrees celsius
+Expected Response: 0
+Actual Response: 0
+
+
+Output of Test5: 
+Test Input: Schools are expected to reopen in the fall
+Expected Response: 0
+Actual Response: 0
+
+
+Output of Test6: 
+Test Input: End of the world is tomorrow!
+Expected Response: 1
+Actual Response: 1
+Average Latency Over 100 Calls (ms): 1.0099899999999997
+
+
+Output of Test7: 
+Test Input: Doctor Oz discovers cure to cancer
+Expected Response: 1
+Actual Response: 1
+Average Latency Over 100 Calls (ms): 0.9900399999999999
+
+
+Output of Test8: 
+Test Input: Expecting clear skies with an average temperature at 21 degrees celsius
+Expected Response: 0
+Actual Response: 0
+Average Latency Over 100 Calls (ms): 1.00002
+
+
+Output of Test9: 
+Test Input: Schools are expected to reopen in the fall
+Expected Response: 0
+Actual Response: 0
+Average Latency Over 100 Calls (ms): 1.0100200000000001
