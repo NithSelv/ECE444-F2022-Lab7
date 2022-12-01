@@ -15,11 +15,11 @@ import pickle
 
 ##### model loading #####
 loaded_model = None
-with open('/tmp/basic_classifier.pkl', 'rb') as fid:
+with open('basic_classifier.pkl', 'rb') as fid:
     loaded_model = pickle.load(fid)
     
 vectorizer = None
-with open('/tmp/count_vectorizer.pkl', 'rb') as vd:
+with open('count_vectorizer.pkl', 'rb') as vd:
     vectorizer = pickle.load(vd)
 
 ##############################################################################################

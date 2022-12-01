@@ -43,25 +43,25 @@ Output of Test6:
 Test Input: End of the world is tomorrow!
 Expected Response: 1
 Actual Response: 1
-Average Latency Over 100 Calls (ms): 1.0099899999999997
+Average Latency Over 100 Calls (ms): 34.64584999999999
 
 
 Output of Test7: 
 Test Input: Doctor Oz discovers cure to cancer
 Expected Response: 1
 Actual Response: 1
-Average Latency Over 100 Calls (ms): 0.9900399999999999
+Average Latency Over 100 Calls (ms): 36.2664
 
 
 Output of Test8: 
 Test Input: Expecting clear skies with an average temperature at 21 degrees celsius
 Expected Response: 0
 Actual Response: 0
-Average Latency Over 100 Calls (ms): 1.00002
+Average Latency Over 100 Calls (ms): 38.25113999999999
 
 
 Output of Test9: 
 Test Input: Schools are expected to reopen in the fall
 Expected Response: 0
 Actual Response: 0
-Average Latency Over 100 Calls (ms): 1.0100200000000001
+Average Latency Over 100 Calls (ms): 35.359759999999994
